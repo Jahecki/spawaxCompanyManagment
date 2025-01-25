@@ -25,10 +25,11 @@
 - Windows with .NET Framework
 - Visual Studio with WPF extensions enabled
 - SQL Server LocalDB
-- change your Data Source of your DB
-- Change Source of images
+
 
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourRepository/WpfApp2.git
+- change your Data Source of your DB
+- Change Source of images
