@@ -10,7 +10,7 @@ namespace WpfApp2.CLAS
 {
     public class DatabaseHelper
     {
-        private readonly string _connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\KOMP\\Downloads\\WpfApp2\\WpfApp2\\WpfApp2\\Database1.mdf;Integrated Security=True";
+        private readonly string _connectionString = "Data Source=(your data source of DB)";
 
         public DataTable GetData(string query)
         {
