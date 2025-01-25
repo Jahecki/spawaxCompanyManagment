@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp2.Orders.Panel.Pracujacy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2.Orders.Panel"
+        mc:Ignorable="d"
+        Title="Pracujacy" Height="250" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Label i ComboBox dla wyboru pracownika -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Pracownik:" VerticalAlignment="Center" Margin="0,0,10,0" />
+        <ComboBox x:Name="EmployeeComboBox" Grid.Row="0" Grid.Column="1" />
+
+        <!-- Checkbox dla ustawienia kierownika -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Kierownik:" VerticalAlignment="Center" Margin="0,0,10,0" />
+        <CheckBox x:Name="IsManagerCheckBox" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" />
+
+        <!-- Przycisk Dodaj -->
+        <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Content="Dodaj Pracownika"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Click="AddEmployeeButton_Click" />
+    </Grid>
+</Window>

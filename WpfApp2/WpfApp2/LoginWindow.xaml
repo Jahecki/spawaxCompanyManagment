@@ -1,0 +1,37 @@
+﻿<Window x:Class="WpfApp2.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="410">
+    <Grid>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Nazwa użytkownika -->
+        <TextBox x:Name="UsernameTextBox" Grid.Row="0" Grid.ColumnSpan="3" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,24,6,0" Width="200" Height="30" 
+                 Text="Nazwa użytkownika" GotFocus="UsernameTextBox_GotFocus" LostFocus="UsernameTextBox_LostFocus"/>
+
+        <!-- Hasło -->
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Center" Width="200" Height="30" 
+                     Password="Hasło" GotFocus="PasswordBox_GotFocus" LostFocus="PasswordBox_LostFocus" Grid.Column="1"/>
+
+        <!-- Przycisk logowania -->
+        <StackPanel Background="Crimson" Grid.Row="2" Grid.RowSpan="2" Grid.ColumnSpan="4"></StackPanel>
+        <Button x:Name="LoginButton" Background="#FFFF" Content="Zaloguj się" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" Width="100" Height="40" Click="LoginButton_Click"/>
+    </Grid>
+</Window>

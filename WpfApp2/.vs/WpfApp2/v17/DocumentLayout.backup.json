@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|c:\\users\\komp\\downloads\\companymanagment\\projtekt\\wpfapp2\\wpfapp2\\orders.panel\\szczegoly.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\orders.panel\\szczegoly.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|c:\\users\\komp\\downloads\\companymanagment\\projtekt\\wpfapp2\\wpfapp2\\view\\usercontrol1.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\usercontrol1.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\ordersxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\ordersxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\neworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\neworderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\orders.panel\\szczegoly.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\orders.panel\\szczegoly.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\neworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\neworderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\ordersxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\ordersxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\warehouse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\warehouse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\clas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\clas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\employesxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\employesxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\employesxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\employesxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\wpfapp2\\view\\warehouse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880651-AC50-4A41-B650-A27EF8DD9748}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\view\\warehouse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "szczegoly.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\Orders.Panel\\szczegoly.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Orders.Panel\\szczegoly.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\Orders.Panel\\szczegoly.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Orders.Panel\\szczegoly.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:16:38.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\NewOrderWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\NewOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\NewOrderWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\NewOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T20:06:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\NewOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\NewOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\NewOrderWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\NewOrderWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:06:13.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "szczegoly.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\Orders.Panel\\szczegoly.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Orders.Panel\\szczegoly.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\Orders.Panel\\szczegoly.xaml",
+              "RelativeToolTip": "WpfApp2\\Orders.Panel\\szczegoly.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T20:05:33.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml",
+              "RelativeToolTip": "WpfApp2\\View\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T17:47:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.xaml",
+              "RelativeToolTip": "WpfApp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T16:20:51.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\CLAS\\Class1.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\CLAS\\Class1.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\CLAS\\Class1.cs",
+              "RelativeToolTip": "WpfApp2\\CLAS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:04:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Warehouse.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Warehouse.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Warehouse.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Warehouse.xaml",
+              "RelativeToolTip": "WpfApp2\\View\\Warehouse.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T17:33:36.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:20:48.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T16:20:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\View\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:06:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeDocumentMoniker": "WpfApp2\\App.config",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeToolTip": "WpfApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-17T13:04:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ordersxaml.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Ordersxaml.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Ordersxaml.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Ordersxaml.xaml",
+              "RelativeToolTip": "WpfApp2\\View\\Ordersxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T17:32:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employesxaml.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Employesxaml.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Employesxaml.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Employesxaml.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\View\\Employesxaml.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:34:28.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Warehouse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Warehouse.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Warehouse.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Warehouse.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\View\\Warehouse.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:44:47.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ordersxaml.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Ordersxaml.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Ordersxaml.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Ordersxaml.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\View\\Ordersxaml.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:49:44.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:07:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employesxaml.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Employesxaml.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\Employesxaml.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\Employesxaml.xaml",
+              "RelativeToolTip": "WpfApp2\\View\\Employesxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-16T17:33:24.943Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\View\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\KOMP\\Downloads\\CompanyManagment\\Projtekt\\WpfApp2\\WpfApp2\\View\\UserControl1.xaml",
+              "RelativeToolTip": "WpfApp2\\View\\UserControl1.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T13:04:50.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

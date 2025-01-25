@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000"
+        
+       >
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.RowSpan="6" Grid.Column="0" Grid.ColumnSpan="2" Background="Crimson">
+            
+        </StackPanel>
+        <Button Name="Klienci" Grid.Row="2"  Background="Crimson" BorderThickness="0" Foreground="#fff"   Grid.ColumnSpan="2" Click="Klienci_Click">
+            <Image Source="  C:\Users\KOMP\Downloads\WpfApp2\WpfApp2\WpfApp2\Images\user(1).png" Width="50" Height="50"></Image>
+
+        </Button>
+       
+       <Button Name="Zamowienia" Grid.Row="3"  Background="Crimson" BorderThickness="0" Foreground="#fff"   Grid.ColumnSpan="2" Click="Zamowienia_Click">
+            <Image Source="C:\Users\KOMP\Downloads\WpfApp2\WpfApp2\WpfApp2\Images\purchase-order.png" Width="50" Height="50"></Image> 
+        </Button>
+      
+        <Button Name="Pracownicy" Grid.Row="4"  Background="Crimson" BorderThickness="0" Foreground="#fff"   Grid.ColumnSpan="2" Click="Pracownicy_Click">
+            <Image Source="C:\Users\KOMP\Downloads\WpfApp2\WpfApp2\WpfApp2\Images\self-employed.png" Width="50" Height="50"></Image>
+        </Button>
+        <Button Name="Magazyn" Grid.Row="5"  Background="Crimson" BorderThickness="0" Foreground="#fff"   Grid.ColumnSpan="2" Click="Magazyn_Click">
+            <Image Source="  C:\Users\KOMP\Downloads\WpfApp2\WpfApp2\WpfApp2\Images\boxes.png" Width="50" Height="50"></Image>
+        </Button>
+        <Image Source="C:\Users\KOMP\Downloads\WpfApp2\WpfApp2\WpfApp2\Images\bialy.png" Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="2"></Image>
+        <ContentControl x:Name="MainContent" Grid.Column="2" Grid.ColumnSpan="4" Grid.Row="0" Grid.RowSpan="6" />
+    </Grid>
+</Window>

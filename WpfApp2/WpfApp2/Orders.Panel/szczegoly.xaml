@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfApp2.Orders.Panel.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Szczegoly" Height="200" Width="800">
+    <Grid>
+        <DataGrid x:Name="SzczegolyDataGrid"
+          AutoGenerateColumns="False"
+          HorizontalAlignment="Stretch"
+          VerticalAlignment="Stretch"
+          Margin="10"
+          RowBackground="LightGray"
+          AlternatingRowBackground="White"
+          GridLinesVisibility="Horizontal"
+          ColumnHeaderHeight="30"
+          RowHeight="40"
+          BorderBrush="Gray"
+          BorderThickness="1"
+          SelectionChanged="SzczegolyDataGrid_SelectionChanged">
+
+            <!-- Style dla nagłówków kolumn -->
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="Crimson" />
+                    <Setter Property="Foreground" Value="White" />
+                    <Setter Property="FontWeight" Value="Bold" />
+                    <Setter Property="FontSize" Value="14" />
+                    <Setter Property="HorizontalContentAlignment" Value="Left" />
+                    <Setter Property="VerticalContentAlignment" Value="Stretch" />
+                </Style>
+            </DataGrid.Resources>
+
+            <!-- Definicja kolumn -->
+            <DataGrid.Columns>
+                <!-- Kolumna: Numer_zamowienia -->
+                <DataGridTextColumn Header="ID" Binding="{Binding Numer_zamowienia}" Width="100" IsReadOnly="True" />
+
+                <!-- Kolumna: Nazwa_produktu -->
+                <DataGridTextColumn Header="Nazwa Produktu" Binding="{Binding Nazwa_produktu}" Width="*" />
+
+                <!-- Kolumna: Kolor -->
+                <DataGridTextColumn Header="Kolor" Binding="{Binding Kolor}" Width="*" />
+
+                <!-- Kolumna: Ilość materiałów -->
+                <DataGridTextColumn Header="Ilość materiałów" Binding="{Binding Ilosc_materialow}" Width="*" />
+
+                <!-- Kolumna: Cena za materiały -->
+                <DataGridTextColumn Header="Cena za materiały" Binding="{Binding Cena_za_materialy}" Width="*" />
+
+                <!-- Kolumna: Cena końcowa -->
+                <DataGridTextColumn Header="Cena końcowa" Binding="{Binding Cena_koncowa}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
